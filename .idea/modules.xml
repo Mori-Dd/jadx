@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jadx.iml" filepath="$PROJECT_DIR$/.idea/modules/jadx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jadx-cli/jadx-cli.iml" filepath="$PROJECT_DIR$/.idea/modules/jadx-cli/jadx-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jadx-core/jadx-core.iml" filepath="$PROJECT_DIR$/.idea/modules/jadx-core/jadx-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jadx-gui/jadx-gui.iml" filepath="$PROJECT_DIR$/.idea/modules/jadx-gui/jadx-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jadx-samples/jadx-samples.iml" filepath="$PROJECT_DIR$/.idea/modules/jadx-samples/jadx-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jadx-test-app/jadx-test-app.iml" filepath="$PROJECT_DIR$/.idea/modules/jadx-test-app/jadx-test-app.iml" />
+    </modules>
+  </component>
+</project>
